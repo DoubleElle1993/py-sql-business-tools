@@ -6,8 +6,8 @@ import pandas as pd
 
 # Paths
 base_dir = os.getcwd()
-file_path = os.path.join(base_dir, 'Trader_vs_mafu.xlsx')
-out_path = os.path.join(os.path.dirname(file_path), 'trader_vs_mafu_output.xlsx')
+file_path = os.path.join(base_dir, '')
+out_path = os.path.join(os.path.dirname(file_path), '')
 
 
 def normalize_text(s: str) -> str:
@@ -75,4 +75,5 @@ def main(path):
     file_trader.to_excel(out_path, index=False)
 
 if __name__ == '__main__':
+
     main(file_path)

@@ -1,8 +1,9 @@
 # py-business-tools
 
 ![My Image](https://www.egovaleo.it/wp-content/uploads/2023/10/python.png)
+![My Image](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*-3lkD1iMzPeeIBC3Vc5FpQ.png)
 
 ### General Info
 
-In this repository, you'll find various Python tools I've developed over the years during my work experience in different companies. It contains solutions to a wide range of business-related tasks, and I hope it will be usefull to anyone facing familiar challenges. 
+In this repository, you'll find various Python and SQL scripts I've developed over the years during my work experience in different companies. It contains solutions to a wide range of business-related tasks, and I hope it will be usefull to anyone facing familiar challenges. 
 

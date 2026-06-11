@@ -5,8 +5,10 @@
     alt="Python Logo"
     width="1000"
 />
+
+
 <img2
-    src2="[https://www.egovaleo.it/wp-content/uploads/2023/10/python.png](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*-3lkD1iMzPeeIBC3Vc5FpQ.png)"
+    src2="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*-3lkD1iMzPeeIBC3Vc5FpQ.png"
     alt="SQL Logo"
     width="1000"
 />

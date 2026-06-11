@@ -1,6 +1,10 @@
 # py-business-tools
 
-![My Image](https://www.egovaleo.it/wp-content/uploads/2023/10/python.png)
+<img
+    src="https://www.egovaleo.it/wp-content/uploads/2023/10/python.png"
+    alt="Python Logo"
+    width="250"
+/>
 ![My Image](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*-3lkD1iMzPeeIBC3Vc5FpQ.png)
 
 ### General Info

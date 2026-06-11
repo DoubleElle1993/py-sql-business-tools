@@ -8,5 +8,5 @@ In this repository, you'll find various Python and SQL scripts I've developed ov
 
 <p align="center">
   <img src="https://www.egovaleo.it/wp-content/uploads/2023/10/python.png" alt="Python" width="500"/>
-  <img src="[https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg)" alt="SQL" width="500"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="500"/>
 </p>

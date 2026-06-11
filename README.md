@@ -3,9 +3,14 @@
 <img
     src="https://www.egovaleo.it/wp-content/uploads/2023/10/python.png"
     alt="Python Logo"
-    width="250"
+    width="1000"
 />
-![My Image](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*-3lkD1iMzPeeIBC3Vc5FpQ.png)
+<img
+    src="[https://www.egovaleo.it/wp-content/uploads/2023/10/python.png](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*-3lkD1iMzPeeIBC3Vc5FpQ.png)"
+    alt="SQL Logo"
+    width="1000"
+/>
+
 
 ### General Info
 

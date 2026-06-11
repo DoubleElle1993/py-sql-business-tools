@@ -7,6 +7,6 @@ In this repository, you'll find various Python and SQL scripts I've developed ov
 ## Technologies 
 
 <p align="center">
-  <img src="https://www.egovaleo.it/wp-content/uploads/2023/10/python.png" alt="Python" width="1000"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="500", height="300/>
+  <img src="https://www.egovaleo.it/wp-content/uploads/2023/10/python.png" alt="Python" width="500"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="300"/>
 </p>

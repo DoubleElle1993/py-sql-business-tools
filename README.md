@@ -1,16 +1,16 @@
 # py-business-tools
 
-<p align="center">
+<p>
     <img
         src="https://www.egovaleo.it/wp-content/uploads/2023/10/python.png"
         alt="Python Logo"
-        width="500"
+        width="250"
     />
 
     <img
         src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*-3lkD1iMzPeeIBC3Vc5FpQ.png"
         alt="SQL Logo"
-        width="500"
+        width="250"
     />
 </p>
 
